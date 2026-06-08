@@ -333,7 +333,7 @@ module.exports = {
 
 Modern Discord sistemleri, özel bot projeleri ve gelişmiş altyapılar.
 
-**Website:** https://elecus.link
+**Website:** https://elecus.dev
 
 **Marka:** Elecus Development
 
