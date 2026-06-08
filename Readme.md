@@ -1,3 +1,8 @@
+# Discord Sunucumuz (Star Vererek Destek Olabilirsiniz)
+[![Discord Banner](https://api.weblutions.com/discord/invite/codeworld/)](https://discord.gg/codeworld)
+
+----
+
 # 🚀 Elecus Development - Discord Components V2 Rehberi
 
 > Modern Discord botları için yeni nesil Components V2 kullanım rehberi.
